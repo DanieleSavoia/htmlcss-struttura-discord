@@ -1,9 +1,10 @@
 .container1 { background-color: blue;
-    width: 1200px;
+    max-width: auto;
     height: 400px;
     display: flex;
     justify-content: space-around;
     margin-inline: auto;
+    ;
 
 
     
@@ -12,14 +13,16 @@
 
 
 .box {
+    
     background-color: yellow;
-    width: 333px;
+    width: 33.3%;
     height: 20px;
     border-color: black;
     border-style: dashed;
     border-width: 1px;
-    width: 333px;
+    
     text-align: center;
+    
     
 } 
 
