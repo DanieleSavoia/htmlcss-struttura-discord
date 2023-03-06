@@ -1,16 +1,199 @@
 .container {
     background-color: rgb(52, 235, 248);
     margin: auto;
-    height: 100px;
+    height: 60px;
+    display: flex;
+     
 
  } 
 
  .boxcontainer { 
-    background-color: rgb(194, 245, 24);
+    background-color: rgb(245, 227, 24);
     width: 600px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
 
   } 
 
-  .box  {
-    
+  .box1  {
+    width: 20%;
+
+
    } 
+   .box2  { 
+     width: 60%;
+
+   } 
+   .box3  { 
+    width: 20%;
+
+   } 
+
+        .box { 
+            padding: 5px;
+            border-color: black;
+            border-style: dashed;
+            border-width: 1px;
+        }
+
+        .container0 { 
+            background-color: rgb(22, 22, 144);
+            margin: auto;
+            height: 250px;
+            display: flex; 
+        }
+
+        .boxcontainer0 { 
+            width: 500px;
+            display: flex;
+            margin: auto;
+            background-color: rgb(233, 16, 175);
+            height: 220px;
+        }
+   
+        .container2  { 
+            background-color: rgb(255, 255, 255);
+            margin: auto;
+            height: 280px;
+            display: flex; 
+        }
+        .boxcontainer2 {width: 600px;
+            display: flex;
+            margin: auto;
+            background-color: rgb(230, 157, 220);
+        }
+
+        .boxgrande2  {
+            width: 60%;
+            height: 250px;
+            background-color: blue;
+        }
+
+         
+
+
+
+
+
+          
+        .container3  { 
+            background-color: lightgray;
+            margin: auto;
+            height: 280px;
+            display: flex; 
+        }
+        .boxcontainer3 {width: 600px;
+            display: flex;
+            margin: auto;
+            background-color: rgb(230, 157, 220);
+            flex-direction: row-reverse;
+        }
+
+        .boxgrande3  {
+            width: 40%;
+            height: 250px;
+            background-color: blue;
+
+        }
+
+        .container4 { 
+            background-color: lightgray;
+            margin: auto;
+            height: 500px;
+            display: flex; 
+        }
+        .boxcontainer4 {width: 600px;
+            display: flex;
+            margin: auto;
+            background-color: rgb(24, 131, 26);
+            height: 450px;
+        }
+
+
+        
+        .container5  { 
+            background-color: rgb(30, 27, 27);
+            margin: auto;
+            height: 280px;
+            display: flex; 
+        }
+
+
+        .boxcontainer5 {width: 600px;
+            display: flex;
+            margin: auto;
+            background-color: rgb(0, 0, 0);
+            height: 250px;
+        }
+
+        .container5box1 { height: 250px;
+            width: 30%;
+            background-color: rgb(238, 20, 194);
+            border-color: black;
+            border-style: dashed;
+            border-width: 1px;
+        }
+
+
+        .container5box2 { height: 250px;
+            width: 17.5%;
+            background-color:rgb(37, 240, 233);
+            border-color: black;
+            border-style: dashed;
+            border-width: 1px;
+        }
+
+
+        .container5box3 { height: 250px;
+            width: 17.5%;
+            background-color: rgb(37, 240, 233);
+            border-color: black;
+            border-style: dashed;
+            border-width: 1px;
+        }
+
+
+        .container5box4 { height: 250px;
+            width: 17.5%;
+            background-color: rgb(37, 240, 233);
+            border-color: black;
+            border-style: dashed;
+            border-width: 1px;
+        }
+
+        .container5box5 { height: 250px;
+            border-color: black;
+            border-style: dashed;
+            border-width: 1px;
+            width: 17.5%;
+            background-color: rgb(37, 240, 233);
+        }
+
+        .container-footer {
+            background-color: rgb(0, 0, 0);
+            margin: auto;
+            height: 60px;
+            display: flex;
+            border-top: 1px solid rgb(255, 255, 255);
+        }
+
+        .boxcontainer-footer { 
+            background-color: rgb(156, 240, 253);
+            width: 600px;
+            display: flex;
+            justify-content: space-between;
+            margin: auto;
+            }  
+
+            .box-footer1 {
+                 width: 10%;} 
+            .box-footer1 { 
+                width: 10%;} 
+            
+               
+         
+          
+          
+            
