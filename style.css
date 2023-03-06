@@ -1,0 +1,24 @@
+.container { background-color: blue;
+    width: 1200px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+
+
+    
+} 
+
+
+
+.box {
+    background-color: yellow;
+    width: 333px;
+    height: 20px;
+    border-color: black;
+    border-style: dashed;
+    border-width: 1px;
+    width: 333px;
+    text-align: center;
+    
+} 
+
