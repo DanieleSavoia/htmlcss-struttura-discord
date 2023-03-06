@@ -1,28 +1,12 @@
-.container1 { background-color: blue;
-    max-width: auto;
-    height: 400px;
-    display: flex;
-    justify-content: space-around;
-    margin-inline: auto;
-    ;
+.container {
+    background-color: rgb(52, 235, 248);
+    margin: auto;
+    height: 100px;
 
+ } 
 
-    
-} 
+ .boxcontainer { 
+    background-color: rgb(194, 245, 24);
+    width: 600px;
 
-
-
-.box {
-    
-    background-color: yellow;
-    width: 33.3%;
-    height: 20px;
-    border-color: black;
-    border-style: dashed;
-    border-width: 1px;
-    
-    text-align: center;
-    
-    
-} 
-
+  } 
