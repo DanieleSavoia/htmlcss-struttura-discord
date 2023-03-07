@@ -3,8 +3,6 @@
     margin: auto;
     height: 60px;
     display: flex;
-     
-
  } 
 
  .boxcontainer { 
@@ -14,38 +12,29 @@
     justify-content: center;
     margin: auto;
     align-items: center;
-
   } 
-
   .box1  {
     width: 20%;
-
-
    } 
    .box2  { 
      width: 60%;
-
    } 
    .box3  { 
     width: 20%;
-
    } 
-
         .box { 
             padding: 5px;
             border-color: black;
             border-style: dashed;
             border-width: 1px;
         }
-
-        .container0 { 
+        .container1 { 
             background-color: rgb(22, 22, 144);
             margin: auto;
             height: 250px;
             display: flex; 
         }
-
-        .boxcontainer0 { 
+        .boxcontainer1 { 
             width: 500px;
             display: flex;
             margin: auto;
@@ -53,31 +42,23 @@
             height: 220px;
         }
    
-        .container2  { 
+        .container2-4  { 
             background-color: rgb(255, 255, 255);
             margin: auto;
             height: 280px;
             display: flex; 
         }
-        .boxcontainer2 {width: 600px;
+        .boxcontainer2-4 {width: 600px;
             display: flex;
             margin: auto;
             background-color: rgb(230, 157, 220);
         }
 
-        .boxgrande2  {
+        .boxgrande2-4  {
             width: 60%;
             height: 250px;
             background-color: blue;
-        }
-
-         
-
-
-
-
-
-          
+        } 
         .container3  { 
             background-color: lightgray;
             margin: auto;
